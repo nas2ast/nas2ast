@@ -5,7 +5,7 @@
   <a href="https://t.me/nastiastarodub">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href = ''>
+  <a href = 'mailto:nastia290204@mail.ru'>
     <img src = 'https://img.shields.io/badge/mail.ru-blue?logo=Mail.ru&logoColor=white' alt = 'Mail.ru Badge'/>
   </a>
 </div>
